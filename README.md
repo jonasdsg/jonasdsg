@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jonasdsg/jonasdsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 My name's Jonas Góes and I'm a Full stack Junior Developer.
 
