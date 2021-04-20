@@ -18,5 +18,5 @@ Here are some technologies that i like to use:
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?&style=for-the-badge&logo=reactivex&logoColor=white" />
 
 ### My Stats
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasdsg&show_icons=true)  ![Jonas's Mostly used technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdsg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasdsg&show_icons=true)  ![Jonas's Mostly used technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdsg&layout=compact)
 
