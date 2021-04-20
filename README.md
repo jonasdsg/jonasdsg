@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 My name's Jonas Góes and I'm a Full stack Junior Developer.
 
 - 🔭 I’m currently working on a API that return informations about stock funds listed on b3.com.br (The Brazil's stock exchange)
@@ -20,3 +19,4 @@ Here are some technologies that i like to use:
 ### My Stats
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasdsg&show_icons=true)  ![Jonas's Mostly used technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasdsg&layout=compact)
 
+### Check my repositories bellow 👇
