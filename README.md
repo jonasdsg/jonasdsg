@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm Jonas Góes, a Fullstack Junior Developer from Brazil.
+I'm Jonas Góes A Software Developer from Brazil.
 
-- 🔭 I’m currently working on a API that return informations about stock funds listed on b3.com.br (The Brazil's stock exchange)
-- In love with Springboot <3
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/jonasdsg/),  [Twitter profile](https://twitter.com/jonasdsg) or [Googling my nick 😄](https://www.google.com/search?q=jonasdsg)
  
 Here are some technologies that i like to use:
